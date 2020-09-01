@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<img src="https://github.com/Siddhant-Jha/Siddhant-Jha/blob/master/My%20Post.jpg"/>
 
 - 🔭 I’m currently working on ... Image Manipulation Using Python
 - 🌱 I’m currently learning ... Java Script
