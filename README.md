@@ -5,5 +5,10 @@
 <br>
 <br>
 <br>
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Siddhant-Jha&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
 
+<span>
+<a href="https://dev.to/siddhantjha">
+  <img src="https://github-readme-stats.vercel.app/api?username=Siddhant-Jha&show_icons=true&count_private=true&hide_border=true" style="width: 100%" align="left">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Siddhant Jha's DEV Profile" height="200" width="200" alt="Dev's Hacktoberfeast Badge" align="right">
+</a>
+  </span>
